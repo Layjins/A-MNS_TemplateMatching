@@ -23,11 +23,14 @@ Fast and robust template matching with majority neighbour similarity and annulus
 
 
 4. Performance
-![image](https://user-images.githubusercontent.com/32405621/132881813-abad19c1-47a0-4fe5-86b3-9afb996c4165.png)
+![image](https://user-images.githubusercontent.com/32405621/132883454-23ac5e55-f55b-4715-9f07-1edaff2e0344.png)
+![image](https://user-images.githubusercontent.com/32405621/132883494-2731fa0b-88f3-4fd7-8991-97ab87f7a2f9.png)
+
 
 5. More visulizations
 ![image](https://user-images.githubusercontent.com/32405621/132881912-ec9314f6-6e7c-4b67-972e-14b91f9fc85f.png)
-![image](https://user-images.githubusercontent.com/32405621/132882953-900d0b09-7393-41b7-ad21-6e0b4787ccae.png)
+![image](https://user-images.githubusercontent.com/32405621/132883540-ecf47450-cc79-440f-88c2-ae9aab840006.png)
+
 
 
                               
