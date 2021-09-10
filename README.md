@@ -18,7 +18,8 @@ Fast and robust template matching with majority neighbour similarity and annulus
 ![image](https://user-images.githubusercontent.com/32405621/132881772-f4e84939-f1cb-4ee9-873c-2be653e8a1e6.png)
 
 3. The A-MNS method
-![image](https://user-images.githubusercontent.com/32405621/132886287-e603bcb3-4b21-49e6-b631-151e2d3e3fa1.png)
+![image](https://user-images.githubusercontent.com/32405621/132886463-90514899-e960-49b3-a23e-15c5a56787ab.png)
+
 ![image](https://user-images.githubusercontent.com/32405621/132883347-d86990a9-623a-4415-83e4-5c6286a2c9cd.png)
 
 
