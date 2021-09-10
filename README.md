@@ -1,6 +1,8 @@
 # A-MNS_TemplateMatching
 This is the official code for the PatternRecognition2020 paper: Fast and robust template matching with majority neighbour similarity and annulus projection transformation.
+
 Authors: Jinxiang Lai, Liang Lei, Kaiyuan Deng, Runming Yan, Yang Ruan, Zhou Jinyun
+
 Paper download: https://www.sciencedirect.com/science/article/abs/pii/S0031320319303322
 
 Directory "A-MNS_Qt" is the Qt creator version. (Qt download: https://download.qt.io/official_releases/qtcreator/4.5/4.5.0/)
