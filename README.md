@@ -26,7 +26,8 @@ Fast and robust template matching with majority neighbour similarity and annulus
 
 5. More visulizations
 ![image](https://user-images.githubusercontent.com/32405621/132881912-ec9314f6-6e7c-4b67-972e-14b91f9fc85f.png)
-![image](https://user-images.githubusercontent.com/32405621/132881931-84bd3527-41a6-4693-bf25-bef874a276fa.png)
+![image](https://user-images.githubusercontent.com/32405621/132882953-900d0b09-7393-41b7-ad21-6e0b4787ccae.png)
+
 
                               
 
